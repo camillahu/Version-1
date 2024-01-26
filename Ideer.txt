@@ -1,0 +1,43 @@
+<!-- 
+Forside:
+    Statistikk/overblikk
+        Pages/books this month/year/all time
+        Favorite moods this month/year/all time
+        Average rating 
+        DNF
+        Library or owned
+        Reading/listening platform
+        Worst/best rated
+        Favorite author
+
+
+Meny:
+    TBR
+    Add new book 
+    Add new book in series
+    Edit existing book/series
+    My bookshelf 
+    Suggest a book (AI? chat GTP?)
+
+
+Features when adding book:
+    Title, Author, Publishing date 
+    Genre
+    Fact or Fiction
+    Moods (rating 0-5, 0= no input)
+        Happy 
+        Sad
+        Bittersweet
+        Annoying
+        Angry
+        Tense
+        Scary
+        Spicy
+        Inspirational
+        Informative
+        Adventurous 
+        Dark
+        Boring
+
+
+ -->
