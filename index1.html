@@ -9,8 +9,11 @@
   <body>
 
     <script>
-      function message() {
+      function messageNext() {
         alert("This button will direct you to the next page when it's ready");
+      }
+      function messageSave() {
+        alert("This button will save the data you've put in so far when it's ready");
       }
     </script>
 
@@ -62,6 +65,7 @@
       <!-- only one box can be checked at a time-->
     </div>
 
-    <button onclick="message()">Next</button>
+    <button onclick="messageSave()">Save</button>
+    <button onclick="messageNext()">Next</button>
   </body>
 </html>
